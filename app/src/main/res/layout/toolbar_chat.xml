@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarChat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:theme="@style/Toolbar"
+        android:elevation="0dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/circlePhotoChat"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="16dp"
+            android:src="@drawable/padrao"/>
+
+        <TextView
+            android:id="@+id/textViewNameChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cristóvão Fábio"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+    </androidx.appcompat.widget.Toolbar>
+</FrameLayout>

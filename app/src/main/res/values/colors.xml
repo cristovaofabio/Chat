@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="gray">#CECBCB</color>
+    <color name="ballon_msg_user">#D3EEF4</color>
+    <color name="ballon_msg_recieve">#E2E4E5</color>
+</resources>

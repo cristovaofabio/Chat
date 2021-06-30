@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">WhatsApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_now">Login Now</string>
+    <string name="don_t_have_an_account_register_now">Don\'t have an account? Register now</string>
+    <string name="terms_of_service">Terms of service</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="create_your_account_for_free">Create your account for free</string>
+    <string name="titleA">Conversations</string>
+    <string name="titleB">Contacts</string>
+    <string name="save_informations">Save informations</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="mensage">mensage</string>
+
+</resources>
