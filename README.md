@@ -1,4 +1,4 @@
-# Projeto flutter: Bate-papo virtual.
+# Projeto flutter: Bate-papo virtual 💬
 
 ## Funcionalidades:
 - Autenticação com e-mail e senha;
